@@ -1,8 +1,7 @@
-import model.boardgame.Position;
+import model.boardgame.Board;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        Position position = new Position(3, 2);
-        System.out.println(position.toString());
+        Board board = new Board(8, 8);
     }
 }
