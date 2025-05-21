@@ -1,6 +1,6 @@
 package application;
 
-import model.boardgame.ChessMatch;
+import model.chess.ChessMatch;
 
 public class App {
     public static void main(String[] args) throws Exception {

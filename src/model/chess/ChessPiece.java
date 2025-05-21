@@ -1,6 +1,8 @@
-package model.boardgame;
+package model.chess;
 
 import enumerator.Color;
+import model.boardgame.Board;
+import model.boardgame.Piece;
 
 public class ChessPiece extends Piece {
 
