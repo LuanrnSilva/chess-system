@@ -4,7 +4,7 @@ import enumerator.Color;
 import model.boardgame.Board;
 import model.boardgame.Piece;
 
-public class ChessPiece extends Piece {
+public abstract class ChessPiece extends Piece {
 
     private Color color;
 
