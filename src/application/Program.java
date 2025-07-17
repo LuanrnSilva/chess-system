@@ -10,7 +10,7 @@ import model.chess.ChessMatch;
 import model.chess.ChessPiece;
 import model.chess.ChessPosition;
 
-public class App {
+public class Program {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         ChessMatch chessMatch = new ChessMatch();
